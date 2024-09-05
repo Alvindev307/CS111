@@ -2,12 +2,9 @@
 using namespace std;
 
 int main() {
-    int a = 5;
-    int b = 10;
-
-    int sum = a + b;
-
-    cout << "The sum is: " << sum << endl;
+    //hello world
+    
+    cout << "Surbhit kaise hai ?" << endl;
 
     return 0;
 }
